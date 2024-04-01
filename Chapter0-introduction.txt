@@ -1,0 +1,5 @@
+HTML--Hyper Text Markup Language
+
+HTML is the language of the web.It is used to create websites.
+We use HTML tags to define look & feel of website.
+With understanding of these tags and how to put them together,we  
